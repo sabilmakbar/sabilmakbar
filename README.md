@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salsabil Maulana Akar (@sabilmakbar)
-- 👀 I’m interested in Data Science things
+- 👀 I’m interested in Data Science stuffs
 - 👨🏽‍💻 Now working at Tokopedia in Search Retrieval NLP domain
 
 Check my profile in more detail on ✨https://sabilmakbar.github.io/✨ or ✨https://www.linkedin.com/in/salsabil-maulana-akbar/✨
