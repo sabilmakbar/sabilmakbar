@@ -5,7 +5,7 @@ My interests revolve around Mathematics, Artificial Intelligence, Data Science, 
 
 **Recent roles & research highlights:**  
 - Currently AI/ML Research Engineer working on speech-based agentic modules.  
-- Former Algorithm Engineer at TikTok, focusing on large-scale retrieval and recommendation systems.  
+- Former Algorithm Engineer at Tokopedia & TikTok, focusing on large-scale retrieval and recommendation systems.  
 - Author of the SEACrowd benchmark: *“SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages”* (2024).  
 - BS in Mathematics from Institut Teknologi Bandung (ITB), graduated in 2020.
 
